@@ -6,4 +6,5 @@ for i in list:
     print(type(a))
     print(i==a)
 
+
 #Отстаю от программы, не смог выполнить
