@@ -6,4 +6,3 @@ for i in list :
     print(i)
     print(type(i))
     print(len(i))
-

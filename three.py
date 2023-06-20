@@ -5,6 +5,4 @@ for i in list:
     print(a)
     print(type(a))
     print(i==a)
-
-
 #Отстаю от программы, не смог выполнить

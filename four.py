@@ -15,4 +15,3 @@ for i in list:
     dec_str = enc_str_bytes.decode('utf-8')
     print(dec_str)
     print(type(dec_str))
-
